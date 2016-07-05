@@ -1,3 +1,5 @@
+##    NIKITA CHAUHAN WEEK3 ASSIGNMENT RESUBMITTED 
+
 ## Programming Assignment 2 to Cache the inverse of a matrix
 ## there are two functions defined below the first being makeCacheMatrix 
 ## and the Second function cacheSolve
